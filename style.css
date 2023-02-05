@@ -248,3 +248,24 @@ h4 {
     padding: 10px;
     align-self: center;
  }
+
+header{
+    text-align: center;
+    font-family:  Courier;
+    text-decoration: underline;
+    font-size: larger;
+     color:rgb(121, 21, 21);
+}
+pre{ text-align: center;
+    font-family:  Courier;
+    border: 5px;
+    padding: 5px;
+margin: 10px;
+color: rgb(70, 10, 62);
+}
+.aa11{
+    padding: 8px;
+    text-align: center;
+    margin: 8px;
+}
+
