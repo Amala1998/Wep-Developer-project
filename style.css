@@ -248,3 +248,31 @@ h4 {
     padding: 10px;
     align-self: center;
  }
+
+.con img{
+direction: rtl;
+background-color: white;
+height: 100vh;
+width: 150px;
+height: 150px;
+display: inline-block;
+justify-content: space-between;
+align-items: center;
+margin: 8px;
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 20px;
+width: 100px;
+}
+img:hover
+{
+    transform: rotate(360deg) scale(2, 3);
+    -moz-transform: rotate(360deg) scale(2, 3);
+   
+}
+.con2{
+    margin: 5%;
+    background-color: white;
+    padding: 7px;
+    border: 1px solid white;
+}
